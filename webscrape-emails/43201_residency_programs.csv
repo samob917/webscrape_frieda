@@ -1,1 +1,50 @@
-""
+title,first_name,last_name,email,org,specialty
+Beth Israel Deaconess Medical Center/Harvard Medical School Program,Samuel,Lin,sjlin@bidmc.harvard.edu,Beth Israel Deaconess Med Ctr,PLASTIC SURGERY
+Lahey Clinic Program,Brian,Freniere,christine.l.holman@lahey.org,Lahey Clinic Program,PLASTIC SURGERY
+Mass General Brigham/Brigham and Women's Hospital/Harvard Medical School Program,Kyle,Eberlin,keberlin@mgh.harvard.edu,Massachusetts General Hosp Harvard,PLASTIC SURGERY
+Nassau University Medical Center/Stony Brook University Program,Brian,Pinsky,bpinsky@lipsg.com,Nassau University Medical Center,PLASTIC SURGERY
+Temple University Hospital Program,Adam,Walchak,adam.walchak@fccc.edu,Temple University Hospital,PLASTIC SURGERY
+Tower Health Program,Amir,Behnam,amir.behnam@towerhealth.org,Reading Hosp,PLASTIC SURGERY
+St Joseph's University Medical Center Program,Silvio,Podda,poddas@sjhmc.org,St Joseph's Univ Med Ctr,PLASTIC SURGERY
+St Luke's University Hospital Program,Christopher,Sanders,christopher.sanders@sluhn.org,801 Ostrum St,PLASTIC SURGERY
+University at Buffalo School of Medicine Program,Mark,Burke,katiepet@buffalo.edu,University at Buffalo,PLASTIC SURGERY
+Westchester Medical Center Program,Helen,Perakis,Helen.Perakis@wmchealth.org,Westchester Med Ctr,PLASTIC SURGERY
+University of Pennsylvania Health System Program,Joshua,Fosnot,kris.gallagher@uphs.upenn.edu,Hosp of the Univ of Pennsylvania,PLASTIC SURGERY
+UPMC Medical Education Program,Vu,Nguyen,nguyenvt3@upmc.edu,Univ of Pittsburgh Med Ctr,PLASTIC SURGERY
+Corewell Health/William Beaumont University Program (Farmington Hills/Royal Oak) Program,Raymond,Hajjar,christina.lacroix@corewellhealth.org,Beaumont Hosp-Farmington Hills,PLASTIC SURGERY
+Indiana University School of Medicine Program,William,Wooden,wwooden@iu.edu,Indiana Univ Sch of Med,PLASTIC SURGERY
+Henry Ford Health/Henry Ford Hospital Program,Vigen,Darian,vdarian1@hfhs.org,Henry Ford Hosp,PLASTIC SURGERY
+Summa Health System/NEOMED Program,Ananth,Murthy,murthya@summahealth.org,Summa Health System/NEOMED,PLASTIC SURGERY
+Ohio State University Hospital Program,Gregory,Pearson,gregory.pearson@nationwidechildrens.org,Ohio State Wexner Medical Center,PLASTIC SURGERY
+University of Cincinnati Medical Center/College of Medicine Program,Ann,Schwentker,ann.schwentker@cchmc.org,Univ of Cincinnati Med Ctr,PLASTIC SURGERY
+University of Illinois College of Medicine at Chicago Program,Julia,Corcoran,plasticsurgres@uic.edu,Univ of Illinois Coll of Med Chicago,PLASTIC SURGERY
+University of Minnesota Program,Christopher,Hillard,christopher.j.hillard@healthpartners.com,University of Minnesota,PLASTIC SURGERY
+University of Iowa Health Care Medical Center Program,Kelly,Ledbetter,kelly-ledbetter@uiowa.edu,University of Iowa Hospitals and Clinics,PLASTIC SURGERY
+University of Nebraska Medical Center College of Medicine Program,Shannon,Wong,shannon.wong@unmc.edu,Univ of Nebraska Med Ctr,PLASTIC SURGERY
+Duke University Hospital Program,Brett,Phillips,brett.phillips@duke.edu,Duke University,PLASTIC SURGERY
+Cleveland Clinic Foundation/Florida Weston Program,Martin,Newman,newmanm@ccf.org,Cleveland Clinic Florida,PLASTIC SURGERY
+Emory University School of Medicine Program,Paul,Ghareeb,paul.ghareeb@emory.edu,Emory University School of Medicine,PLASTIC SURGERY
+Johns Hopkins University/University of Maryland Program,Scott,Lifchez,slifche1@jhmi.edu,Johns Hopkins Bayview Med Ctr,PLASTIC SURGERY
+University of Miami/Jackson Health System Program,Devinder,Singh,dsingh.md@med.miami.edu,Jackson Memorial Hosp,PLASTIC SURGERY
+Broward Health Program,James,Fletcher,rverpile@browardhealth.org,Broward Health Med Ctr,PLASTIC SURGERY
+Medical University of South Carolina Program,Milton,Armstrong,mackeys@musc.edu,Med Univ of South Carolina,PLASTIC SURGERY
+University of Florida Program,Ellen,Satteson,ashley.byers@surgery.ufl.edu,University of Florida,PLASTIC SURGERY
+University of Virginia Medical Center Program,Thomas,Gampper,tjg6f@virginia.edu,Univ of Virginia Health System,PLASTIC SURGERY
+Vanderbilt University Medical Center Program,Brian,Drolet,beth.benson@vumc.org,Vanderbilt Univ Med Ctr,PLASTIC SURGERY
+University of Louisville School of Medicine Program,Bradon,Wilhelmi,bjwilh01@louisville.edu,Univ of Louisville Hosp,PLASTIC SURGERY
+University of Tennessee College of Medicine at Chattanooga Program,Mark,Brzezienski,Brzezienskim@thepsg.org,Univ of Tennessee Health Science Ctr,PLASTIC SURGERY
+University of Alabama Hospital (Birmingham) Program,Jorge,de la Torre,schambless1@uabmc.edu,Univ of Alabama Med Ctr,PLASTIC SURGERY
+University of Mississippi Medical Center Program,Benjamin,McIntyre,bmcintyre@umc.edu,Univ of Mississippi Med Ctr,PLASTIC SURGERY
+Houston Methodist Hospital (Medical Center) Program,Pierre,Chevray,pmchevray@houstonmethodist.org,Houston Methodist Hospital,PLASTIC SURGERY
+Tulane University/Ochsner Clinic Program,Abigail,Chaffin,achaffin@tulane.edu,Tulane Univ Health Sciences Ctr,PLASTIC SURGERY
+University of Oklahoma Health Sciences Center Program,Suhair,Maqusi,suhair-maqusi@ouhsc.edu,Univ of Oklahoma Health Sciences Ctr,PLASTIC SURGERY
+University of Texas Health Science Center at Houston Program,Erik,Marques,erik.s.marques@uth.tmc.edu,Univ of Texas HSC Houston,PLASTIC SURGERY
+University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine Program,Howard,Wang,wanght@uthscsa.edu,Univ of Texas HSC San Antonio,PLASTIC SURGERY
+University of Texas Southwestern Medical Center Program,Andrew,Zhang,andrew.zhang@utsouthwestern.edu,Univ of Texas Southwestern Med Ctr,PLASTIC SURGERY
+University of Arizona College of Medicine-Tucson Program,Aaron,Mason,aaronmason@arizona.edu,University of Arizona College of Medicin,PLASTIC SURGERY
+University of Utah Health Program,Dana,Johns,Dana.Johns@hsc.utah.edu,Univ of Utah,PLASTIC SURGERY
+University of Colorado Program,Mark,Greyson,mark.greyson@cuanschutz.edu,University of Colorado,PLASTIC SURGERY
+University of California (San Francisco) Program,Scott,Hansen,scott.hansen@ucsf.edu,UCSF Med Ctr,PLASTIC SURGERY
+University of California (San Diego) Medical Center Program,Amanda,Gosman,agosman@health.ucsd.edu,UC San Diego Health,PLASTIC SURGERY
+University of California Davis Health Program,Granger,Wong,hs-plasticsurg.residency@ucdavis.edu,UC Davis Med Ctr,PLASTIC SURGERY
+University of Southern California/Los Angeles General Medical Center (USC/LA General) Program,Haig,Yenikomshian,eluong@med.usc.edu,Los Angeles General Med Ctr,PLASTIC SURGERY
